@@ -9,6 +9,12 @@ import com.acti.pages.EnterTimePage;
 import com.acti.pages.LoginPage;
 import com.acti.utils.ExcelLib;
 
+/*
+ * Name: BaseTest
+ * Description: This Script is a paretn script which has tthe set of prerequisite stepa before executing actual test case
+ * Author:Shantosh
+ * Date Modified: 2/11/2022
+ */
 public class BaseTest extends DriverScript {
 
 	LoginPage lp;
